@@ -1,3 +1,5 @@
-streamlit
-pandas
-pycaret
+streamlit==1.26.0
+pandas==2.0.3
+numpy==1.24.3
+pycaret==3.0.4
+scikit-learn==1.2.2

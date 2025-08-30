@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/cf5cc70594254e4698348e970112e5fe/artifacts
+end_time: 1756485818473
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: cf5cc70594254e4698348e970112e5fe
+run_name: Gradient Boosting Classifier
+run_uuid: cf5cc70594254e4698348e970112e5fe
+start_time: 1756485818264
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

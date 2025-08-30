@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/789f8ebb64184c6e800cd7696b510e2c/artifacts
+end_time: 1756485822973
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: 789f8ebb64184c6e800cd7696b510e2c
+run_name: Quadratic Discriminant Analysis
+run_uuid: 789f8ebb64184c6e800cd7696b510e2c
+start_time: 1756485822855
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

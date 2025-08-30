@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/9d822b89a9db4671a8a52fc7fa1cef37/artifacts
+end_time: 1756485820229
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: 9d822b89a9db4671a8a52fc7fa1cef37
+run_name: K Neighbors Classifier
+run_uuid: 9d822b89a9db4671a8a52fc7fa1cef37
+start_time: 1756485820061
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

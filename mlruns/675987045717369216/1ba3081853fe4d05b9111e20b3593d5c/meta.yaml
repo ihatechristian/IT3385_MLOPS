@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/keaga_0idqj9o/OneDrive/Desktop/School/Y3T2/MLOps/Assignment/usedcar_project/mlruns/675987045717369216/1ba3081853fe4d05b9111e20b3593d5c/artifacts
+end_time: 1756290026909
+entry_point_name: ''
+experiment_id: '675987045717369216'
+lifecycle_stage: active
+run_id: 1ba3081853fe4d05b9111e20b3593d5c
+run_name: champion_finalize_catboost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756290026783
+status: 3
+tags: []
+user_id: keaga_0idqj9o

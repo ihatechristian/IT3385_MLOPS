@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/bc11ffe8c0ea445c879ae4a01190d93f/artifacts
+end_time: null
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: bc11ffe8c0ea445c879ae4a01190d93f
+run_name: Session Initialized ded2
+run_uuid: bc11ffe8c0ea445c879ae4a01190d93f
+start_time: 1756485798297
+status: 1
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/b2f3499934d44f65ab9c750b178a8503/artifacts
+end_time: 1756485816974
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: b2f3499934d44f65ab9c750b178a8503
+run_name: Linear Discriminant Analysis
+run_uuid: b2f3499934d44f65ab9c750b178a8503
+start_time: 1756485816811
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/0be73c95375f4e629c972252ca436ae2/artifacts
+end_time: 1756485819938
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: 0be73c95375f4e629c972252ca436ae2
+run_name: Light Gradient Boosting Machine
+run_uuid: 0be73c95375f4e629c972252ca436ae2
+start_time: 1756485819726
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

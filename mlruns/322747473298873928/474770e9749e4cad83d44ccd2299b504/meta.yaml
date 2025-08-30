@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/474770e9749e4cad83d44ccd2299b504/artifacts
+end_time: 1756485821252
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: 474770e9749e4cad83d44ccd2299b504
+run_name: Dummy Classifier
+run_uuid: 474770e9749e4cad83d44ccd2299b504
+start_time: 1756485821094
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/46d3a964191e430883369164bceac2c8/artifacts
+end_time: 1756485818139
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: 46d3a964191e430883369164bceac2c8
+run_name: Random Forest Classifier
+run_uuid: 46d3a964191e430883369164bceac2c8
+start_time: 1756485817983
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

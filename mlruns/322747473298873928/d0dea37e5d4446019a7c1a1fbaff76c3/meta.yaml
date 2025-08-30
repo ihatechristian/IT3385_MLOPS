@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/d0dea37e5d4446019a7c1a1fbaff76c3/artifacts
+end_time: 1756485817540
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: d0dea37e5d4446019a7c1a1fbaff76c3
+run_name: Decision Tree Classifier
+run_uuid: d0dea37e5d4446019a7c1a1fbaff76c3
+start_time: 1756485817392
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

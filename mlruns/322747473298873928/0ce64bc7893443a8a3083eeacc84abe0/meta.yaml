@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/0ce64bc7893443a8a3083eeacc84abe0/artifacts
+end_time: 1756485818763
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: 0ce64bc7893443a8a3083eeacc84abe0
+run_name: Extreme Gradient Boosting
+run_uuid: 0ce64bc7893443a8a3083eeacc84abe0
+start_time: 1756485818592
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

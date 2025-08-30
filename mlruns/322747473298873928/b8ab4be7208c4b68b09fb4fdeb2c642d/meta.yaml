@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/b8ab4be7208c4b68b09fb4fdeb2c642d/artifacts
+end_time: 1756485820627
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: b8ab4be7208c4b68b09fb4fdeb2c642d
+run_name: Logistic Regression
+run_uuid: b8ab4be7208c4b68b09fb4fdeb2c642d
+start_time: 1756485820353
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/2a6f5e8ca20445818b4abd7fb0b84448/artifacts
+end_time: 1756485819317
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: 2a6f5e8ca20445818b4abd7fb0b84448
+run_name: Naive Bayes
+run_uuid: 2a6f5e8ca20445818b4abd7fb0b84448
+start_time: 1756485819153
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

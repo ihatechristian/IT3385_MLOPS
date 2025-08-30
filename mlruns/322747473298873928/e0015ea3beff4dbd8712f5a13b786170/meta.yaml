@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/OneDrive/Desktop/School%20Work/Year%203%20Sem%201/MLOPS/Assignment/mlruns/322747473298873928/e0015ea3beff4dbd8712f5a13b786170/artifacts
+end_time: 1756485820962
+experiment_id: '322747473298873928'
+lifecycle_stage: active
+run_id: e0015ea3beff4dbd8712f5a13b786170
+run_name: SVM - Linear Kernel
+run_uuid: e0015ea3beff4dbd8712f5a13b786170
+start_time: 1756485820747
+status: 3
+user_id: chris
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

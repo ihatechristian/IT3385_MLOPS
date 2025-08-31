@@ -62,3 +62,8 @@ python -m streamlit run app.py
 or 
 streamlit app.py
 
+Repository
+https://github.com/ihatechristian/IT3385_MLOPS
+
+Web app
+https://ihatechristian-it3385-mlops-app-kxuyzv.streamlit.app/

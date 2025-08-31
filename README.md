@@ -9,6 +9,7 @@ Christian
 Keagan
 Nicolas
 
+
 Folder Structure
 
 ├── data/                 # Raw and processed datasets
@@ -48,3 +49,16 @@ Folder Structure
 ├── README.md             # This file
 
 └── requirements.txt      # Project dependencies (Created by Poetry)
+
+
+Deployment Guide
+
+Requires Python 3.10
+
+pip install the requirements.txt
+run the 3 ipynb files in the pipelines folder (Optional)
+run the app.py with 
+python -m streamlit run app.py 
+or 
+streamlit app.py
+
